@@ -26,3 +26,10 @@ By comparison, a closed source process would be going to a restaurant and orderi
 - Transparency: Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like Bulgaria or the United States, regulated industries like banking or healthcare, and security software like Let’s Encrypt.
 
 Open source isn’t just for software, either. You can open source everything from data sets to books. Check out GitHub Explore for ideas on what else you can open source.
+
+
+# Should I launch my own open source project?
+`The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.`
+
+# Launching your own open source project
+`There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.`
